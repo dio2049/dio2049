@@ -18,7 +18,7 @@
 [![Website](https://img.shields.io/badge/🌐_diyorkhakimov.uz-FF0080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diyorkhakimov.uz/)
 [![Email](https://img.shields.io/badge/📧_khakimovdiyor12@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:khakimovdiyor12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diyorkhakimov)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/diyorkhakimov)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dio2049)
 [![Phone](https://img.shields.io/badge/📞_+998_90_829_40_49-00D9FF?style=for-the-badge)](tel:+998908294049)
 
 </div>
