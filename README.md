@@ -25,41 +25,6 @@
 
 ---
 
-## 🔥 `$ whoami`
-
-```typescript
-const diyor: Developer = {
-  location: "Uzbekistan 🇺🇿",
-  role: "IT Entrepreneur & Product Engineer",
-  experience: "7+ years in production",
-  mindset: "Transform complex business challenges → elegant digital solutions",
-  
-  currentFocus: [
-    "Building AI-powered marketing automation",
-    "Developing scalable fintech platforms", 
-    "Creating enterprise-grade microservices",
-    "Leading digital transformation projects"
-  ],
-  
-  expertise: {
-    architecture: ["Microservices", "Event-Driven", "Domain-Driven Design"],
-    scale: ["High-Load Systems", "Performance Optimization", "Cloud Native"],
-    leadership: ["Team Management", "Technical Consulting", "Mentoring"],
-    industries: ["FinTech", "EdTech", "AI/ML", "Government Systems", "Enterprise"]
-  },
-  
-  philosophy: "Code is poetry; systems are symphonies. Every line matters.",
-  
-  stats: {
-    projectsShipped: "50+",
-    coffeeDrunk: "∞",
-    bugsSquashed: "9999+",
-    uptime: "99.9%"
-  }
-};
-```
-
----
 
 ## ⚡ `TECH_STACK.matrix`
 
@@ -189,20 +154,6 @@ const expertise = {
 };
 ```
 
----
-
-## 📊 `SYSTEM_METRICS.dashboard`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=diyorkhakimov&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=diyorkhakimov&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF0080&currStreakLabel=00FF41" />
-
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=diyorkhakimov&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=FF0080&point=00FF41" />
-
-</div>
-
----
 
 ## 🏆 `ACHIEVEMENTS.log`
 
@@ -223,28 +174,6 @@ Specializations:
   - "AI-powered marketing automation"
   - "High-load distributed systems"
   - "Team leadership & technical mentoring"
-```
-
----
-
-## 💡 `PHILOSOPHY.txt`
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  "Code is not just about making things work—                          ║
-║   it's about crafting solutions that scale,                           ║
-║   maintain themselves, and empower businesses."                       ║
-║                                                                       ║
-║  Every system I build follows these principles:                       ║
-║                                                                       ║
-║  → Clean Architecture: Maintainable, testable, scalable              ║
-║  → Performance First: Fast, optimized, efficient                      ║
-║  → User-Centric: Intuitive UX, seamless experience                    ║
-║  → Business Impact: Solving real problems, driving growth             ║
-║  → Continuous Learning: Stay ahead, adopt best practices              ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
